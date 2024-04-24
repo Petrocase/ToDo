@@ -1,0 +1,40 @@
+
+   
+
+#title {
+    text-align: center;
+    
+}
+
+th {
+    
+    width: 800px;
+}
+
+
+.butList {
+    width: 90px;
+    
+}
+
+.timeList{
+    width: 200px;
+   
+}
+
+#table {
+    text-align: center;
+    margin:auto;
+}
+
+.butDel {
+    background-color: red;
+}
+
+.butCheck {
+    background-color: green;
+}
+
+.butClick {
+    background-color: yellow;
+}
